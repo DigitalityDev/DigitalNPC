@@ -1,0 +1,6 @@
+name: DigitalNPC
+version: 1.0
+main: dev.digitality.test.Main
+api-version: 1.16
+commands:
+    dnpc:
