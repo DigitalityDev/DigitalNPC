@@ -44,6 +44,9 @@ If you like our project, please join our [Discord](https://discord.gg/rvWmR4scc)
 
 ## 1. Installation
 
+### ⚠️ Requirements
+This library requires DecentHolograms to be present on your server. Without it, the plugin will not work. Make sure to install it before using DigitalNPC.
+
 ### Maven
 
 ```xml
