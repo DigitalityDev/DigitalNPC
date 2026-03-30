@@ -39,7 +39,7 @@ public class DigitalNPC {
     @Getter
     private static final List<NPC> npcList = new ArrayList<>();
     @Getter @Setter
-    private static final double autoHideDistance = 50.0;
+    private static double autoHideDistance = 50.0;
 
     /**
      * Important to call in onEnable to register the NPC listener.
